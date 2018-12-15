@@ -20,6 +20,7 @@ func fwd(distance float64) {
 }
 
 // This will draw a blue box
+// incomplete: https://goplay.space/#6HB6ml_tAnc
 // solution: https://goplay.space/#AnxJDtq-H4X
 func main() {
 	fmt.Println("draw mode")
