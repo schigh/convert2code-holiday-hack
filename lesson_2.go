@@ -5,6 +5,7 @@ import (
 )
 
 // This will draw a blue box
+// https://goplay.space/#FLtLqQCMu36
 func main() {
 	fmt.Println("draw mode")
 	fmt.Println("left")
