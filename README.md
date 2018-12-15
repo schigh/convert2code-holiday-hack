@@ -10,7 +10,7 @@
 
 This is an introduction to the [Go programming language](https://golang.org/).  The first important thing to know about Go is that it has a mascot:
 
-![gopher](/Users/steve/goprojects/convert2code-go/gopher.png)
+![gopher](./gopher.png)
 
 This is a gopher.  Its job is to run around and do things you tell it to do.
 
