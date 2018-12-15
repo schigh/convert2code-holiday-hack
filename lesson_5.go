@@ -30,6 +30,7 @@ func colorRGBA(red, green, blue, alpha float64) {
 }
 
 // This will draw a blue box
+// incomplete: https://goplay.space/#xV-CCj6j2gX
 // solution: https://goplay.space/#qAWo1IIPSDn
 func main() {
 	fmt.Println("draw mode")
